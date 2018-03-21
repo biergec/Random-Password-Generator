@@ -7,8 +7,10 @@ Tamamiyle rastgele şifre üretme mekanizması.<br>
 Üretilecek şifrenin özelliklerini seçebilme.<br>
 Üretilebilecek şifre türleri :
 <li>Tüm karakterler kullanılarak şifre üretmek</li>
-<li> A'dan z'ye karakterlerden şifre üretme</li>
-<li> a'dan z'ye karakterlerden şifre üretme</li>
-<li> Rakamları kullanarak şifre üretme</li>
+<li> A'dan z'ye karakterlerden şifre üretme.</li>
+<li> a'dan z'ye karakterlerden şifre üretme.</li>
+<li> Rakamları kullanarak şifre üretme.</li>
 <li> Özel harfleri kullanarak şifre üretme ( ! , ', +).</li>
 <li> Ve yukarıdaki özelliklerin her hangi kombinasyonlarını kullanarak şifre üretme.</li>
+<li> Okunabili şifreler oluşturmak için Okunabilir Şifre Üret komutu.</li>
+<li> Üretilen parolanın isteğe bağlı olarak kopyalanabilmesi.</li>
